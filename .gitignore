@@ -1,0 +1,15 @@
+/push.exe
+/publish.exe
+/push.sh
+/publish.sh
+/push
+/publish
+/node_modules/*
+/.next
+push.exe
+publish.exe
+/packages
+/chrome
+/bin
+/*/bin
+/*/obj
